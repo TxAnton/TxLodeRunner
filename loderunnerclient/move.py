@@ -85,7 +85,9 @@ new_used = []
 flag = False
 
 def dfs_g(x_goal, y_goal, x , y, brd):
+    global path_list
     global flag
+    print("DFSG")
     if flag:
         return
     path_list.append([x, y])
