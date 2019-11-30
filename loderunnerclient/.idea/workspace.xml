@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd1630af-f59a-47a4-9d75-289b4cfde90f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/LodeRunnerClient.py" beforeDir="false" afterPath="$PROJECT_DIR$/LodeRunnerClient.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/CMakeFiles/3.14.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/CMakeFiles/3.14.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/CMakeFiles/Code.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/CMakeFiles/Code.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/CMakeFiles/Code.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/CMakeFiles/Code.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/CMakeFiles/Code.dir/bt_implementation.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/CMakeFiles/Code.dir/bt_implementation.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/CMakeFiles/Code.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/CMakeFiles/Code.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/CMakeFiles/Code.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/CMakeFiles/Code.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/CMakeFiles/Code.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/CMakeFiles/Code.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/CMakeFiles/Code.dir/work_bt.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/CMakeFiles/Code.dir/work_bt.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/Code" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/Code" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/Code.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/Code.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code (copy)/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/Btree_.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/Btree_.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/cmake-build-debug/CMakeFiles/Code.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/cmake-build-debug/CMakeFiles/Code.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/cmake-build-debug/CMakeFiles/Code.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/cmake-build-debug/CMakeFiles/Code.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/cmake-build-debug/CMakeFiles/Code.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/cmake-build-debug/CMakeFiles/Code.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/cmake-build-debug/CMakeFiles/Code.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/cmake-build-debug/CMakeFiles/Code.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/cmake-build-debug/CMakeFiles/Code.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/cmake-build-debug/CMakeFiles/Code.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/cmake-build-debug/CMakeFiles/Code.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/cmake-build-debug/CMakeFiles/Code.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/cmake-build-debug/CMakeFiles/Code.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/cmake-build-debug/CMakeFiles/Code.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/cmake-build-debug/CMakeFiles/Code.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/cmake-build-debug/CMakeFiles/Code.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/cmake-build-debug/Code" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/cmake-build-debug/Code" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/cmake-build-debug/Code.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/cmake-build-debug/Code.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/4_Tree/Code/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/CourseWork/AVLTreeClass.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/CourseWork/AVLTreeClass.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/CourseWork/CourseWork" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/CourseWork/CourseWork" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/CourseWork/CourseWork.pro.user" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/CourseWork/CourseWork.pro.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/CourseWork/graphgraphicview.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/CourseWork/graphgraphicview.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/CourseWork/listviewactionlogger.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/CourseWork/listviewactionlogger.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/CourseWork/mainwindow.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/CourseWork/mainwindow.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/CourseWork/moc_graphgraphicview.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/CourseWork/moc_graphgraphicview.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/CourseWork/moc_listviewactionlogger.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/CourseWork/moc_listviewactionlogger.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/CourseWork/moc_mainwindow.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/AiSD/CourseWork/moc_mainwindow.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/AiSD/Lections/2 0  Пособие Деревья Кодирования и Поиска (дер Хаф)/.~lock.1_2_3_ДХафф.doc#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/CM/Larin_Anton_8383_CM_21_10/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/CM/Larin_Anton_8383_CM_21_10/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/CM/Larin_Anton_8383_CM_21_8/foo/QuickCMTask.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/CM/Larin_Anton_8383_CM_21_8/foo/QuickCMTask.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/CM/Larin_Anton_8383_CM_21_8/foo/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/CM/Larin_Anton_8383_CM_21_8/foo/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/CM/Larin_Anton_8383_CM_21_9/Larin_Anton_8383_cm_21_9.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/CM/Larin_Anton_8383_CM_21_9/Larin_Anton_8383_cm_21_9.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/CM/Larin_Anton_8383_CM_21_9/Larin_Anton_8383_cm_21_9.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/CM/Larin_Anton_8383_CM_21_9/Larin_Anton_8383_cm_21_9.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/CM/Larin_Anton_8383_CM_21_9/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Labs/CM/Larin_Anton_8383_CM_21_9/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/Mathan/HW2/MA_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/Mathan/HW2/MA_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/Mathan/HW2/MA_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/Mathan/HW2/MA_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/Mathan/HW2/MA_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/Mathan/HW2/MA_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/Mathan/HW2/MA_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/Mathan/_HW2/_МА_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/Mathan/_HW2/_МА_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/Mathan/_HW2/_МА_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/Mathan/_HW2/_МА_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/Mathan/Ряды Фурье.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/Mathan/задание_р_Ф.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Labs/Mathan/усл_дз_ряд_Ф_18.pdf" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1UFZ5uJP4XCQRoyMNSivAWiaPEO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="loderunnerclient" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="loderunnerclient" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="loderunnerclient" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd1630af-f59a-47a4-9d75-289b4cfde90f" name="Default Changelist" comment="" />
+      <created>1574954123319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574954123319</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
