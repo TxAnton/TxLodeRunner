@@ -14,7 +14,7 @@ size=58
 used = []
 
 def dfs(x,y, dist, brd):
-    brd = Board("&")
+    #brd = Board("&")
 
     found = False
 
